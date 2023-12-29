@@ -1,0 +1,20 @@
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\bin\Debug\Safe Cracker.exe.config
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\bin\Debug\Safe Cracker.exe
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\bin\Debug\Safe Cracker.pdb
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.csprojAssemblyReference.cache
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\obj\Debug\Safe_Cracker.frmSafecracker.resources
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\obj\Debug\Safe_Cracker.Properties.Resources.resources
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.csproj.GenerateResource.cache
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.csproj.CoreCompileInputs.cache
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.exe
+C:\Users\Kaimana\Documents\Visual Studio\source\repos\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.pdb
+D:\Visual Studio\Safe Cracker\Safe Cracker\bin\Debug\Safe Cracker.exe.config
+D:\Visual Studio\Safe Cracker\Safe Cracker\bin\Debug\Safe Cracker.exe
+D:\Visual Studio\Safe Cracker\Safe Cracker\bin\Debug\Safe Cracker.pdb
+D:\Visual Studio\Safe Cracker\Safe Cracker\obj\Debug\Safe_Cracker.frmSafecracker.resources
+D:\Visual Studio\Safe Cracker\Safe Cracker\obj\Debug\Safe_Cracker.Properties.Resources.resources
+D:\Visual Studio\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.csproj.GenerateResource.Cache
+D:\Visual Studio\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.exe
+D:\Visual Studio\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.pdb
+D:\Visual Studio\Safe Cracker\Safe Cracker\obj\Debug\Safe Cracker.csprojResolveAssemblyReference.cache
